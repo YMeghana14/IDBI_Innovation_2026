@@ -1,3 +1,5 @@
+## Kindly go through this whole file to understand the overview and the mock app terminology . Incase if the app displays it went to sleep due to inactive you can awake it there by clicking the option - (To wake it up,  click "Yes, get this app back up!" )
+
 # CrediLens MSME
 
 ## AI-Powered Financial Health Card for Credit-Invisible MSMEs
